@@ -43,7 +43,9 @@ b) output file name (__-o__)
 
 ### Optional
 a) database mask type (__-m__):  hybrid-mask(default), repeat-mask, homology-mask. repeat-mask is a more sensitive mode; and homology-mask is suggested when some types of HPV are present in large abundance which may lead to false positive of other types of HPV.
+
 b) number of threaded used in bowtie2 alignment (__-p__)
+
 c) minimal coverage threshold to determine HPV present (__-cov__), default is 150 bp (1.5 x average length of your reads).
 
 
