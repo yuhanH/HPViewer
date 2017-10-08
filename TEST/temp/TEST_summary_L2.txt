@@ -1,0 +1,11 @@
+confirm HPV5
+confirm HPV7
+confirm HPV21
+confirm HPV49
+confirm HPV66
+confirm HPV69
+confirm HPV73
+confirm HPV88
+confirm HPV101
+confirm HPV117
+suspected HPV10
