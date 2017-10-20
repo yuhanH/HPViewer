@@ -60,11 +60,11 @@ for opt, val in opts:
 
 try: 
     R1_pair, R2_pair, outprefix, database_type
-    sequence_type='paired alignments'
+    sequence_type='paired'
 except:
     try: 
         unpair,outprefix, database_type
-        sequence_type='unpaired alignments'
+        sequence_type='unpaired'
     except:
       print("\ninput fastq files error!")
       parameter_used()
