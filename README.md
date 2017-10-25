@@ -41,9 +41,9 @@ c) minimal coverage threshold to determine HPV present (__-cov__), default is 15
 ##  Results
 a) output_HPV_summary.txt has three coloumns with types of HPV present, number of reads per kilobase (RPK) for the matching HPV, and number of reads of the matching HPV.
 
-$$
-\frac{n!}{k!(n-k)!} = {n \choose k}
-$$
+<p align="center"><img src="http://mathurl.com/yaps6bcj" height="512" /></p>
+
+
 
 b) alignment results after bowtie2: output.sam, output.bam
 
