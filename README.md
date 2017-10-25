@@ -1,13 +1,4 @@
----
-title: "Overview of HPViewer"
-output:
-  rmarkdown::github_document:
-    toc: yes
-  pdf_document:
-    toc: yes
-linkcolor: green
----
-
+# HPViewer: Sensitive and specific genotyping of human papillomavirus in metagenomic DNA
 
 ##  Description
 HPViewer is a tool for <span style="color:blue">__genotyping and quantification of HPV from metagenomic or human genomic shotgun sequencing data.__</span>  We designed it to improve performance by masking nonspecific sequences from reference genomes and directly identifying HPV short DNA reads. It contains two HPV databases with different masking strategies, repeat-mask and homology-mask and one homology distance matrix to choose between those two databases.
