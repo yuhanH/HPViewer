@@ -28,7 +28,7 @@ Bedtools: http://bedtools.readthedocs.io/en/latest/
 
 ##  Parameters
 ###  Required
-a) input files (__-U__ or __-1__   __-2 __ ): fastq files (or fastq.gz), unpaired (-U unpaired.fastq) or R1,R2 paired (-1 R1.fastq -2 R2.fastq)
+a) input files (__-U__ or __-1,-2__   __-2 __ ): fastq files (or fastq.gz), unpaired (-U unpaired.fastq) or R1,R2 paired (-1 R1.fastq -2 R2.fastq)
 
 b) output file name (__-o__)
 
