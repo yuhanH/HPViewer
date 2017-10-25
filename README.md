@@ -65,8 +65,8 @@ python HPViewer2.py -U test_unpaired.fastq -o TEST
 more TEST/TEST_HPV_profile.txt
 ```
 
-##  Wrok Flow (demo)
-<p align="center"><img src="https://github.com/yuhanH/HPViewer/blob/master/workflow.png" height="256" /></p>
+##  Wrok Flow
+<p align="center"><img src="https://github.com/yuhanH/HPViewer/blob/master/workflow.png" height="512" /></p>
 
 
 
