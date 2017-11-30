@@ -50,7 +50,7 @@ b) alignment results after bowtie2: output.sam, output.bam
 
 ##  Basic Usage (demo)
 ```{bash eval=FALSE}
-python HPViewer2.py -U test_unpaired.fastq -o TEST
+python HPViewer.py -U test_unpaired.fastq -o TEST
 ```
 
 ```{bash}
