@@ -33,6 +33,7 @@ b) output file name (__-o__)
 
 ###  Optional
 a) database mask type (__-m__):  hybrid-mask(default), repeat-mask, homology-mask.
+
 If you set -m, it should be in front of reads input (-m repeat-mask -1 R1.fastq -2 R2.fastq). Repeat-mask is a more sensitive mode; and homology-mask is suggested when some types of HPV are present in large abundance which may lead to false positive of other types of HPV.
 
 b) number of threaded used in bowtie2 alignment (__-p__)
