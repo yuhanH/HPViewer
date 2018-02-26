@@ -38,7 +38,7 @@ If you set -m, it should be in front of reads input (-m repeat-mask -1 R1.fastq 
 
 b) number of threaded used in bowtie2 alignment (__-p__)
 
-c) minimal coverage threshold to determine HPV present (__-cov__), default is 150 bp (1.5 x average length of your reads).
+c) minimal coverage threshold to determine HPV present (__-c__), default is 150 bp (1.5 x average length of your reads).
 
 
 ##  Results
