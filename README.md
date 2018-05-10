@@ -5,7 +5,7 @@ HPViewer is a tool for <span style="color:blue">__genotyping and quantification 
 
 __If you use the HPViewer software, please cite our manuscript:__
 
-Hao Y, Yang L, Galvao Neto A, Amin M R, Kelly D, Brown S M, Branski R C, Pei Z. (2017). HPViewer: Sensitive and specific genotyping of human papillomavirus in metagenomic DNA. bioRxiv, 208926. (accepted by Bioinformatics)
+Yuhan Hao, Liying Yang, Antonio Galvao Neto, Milan R Amin, Dervla Kelly, Stuart M Brown, Ryan C Branski, Zhiheng Pei; HPViewer: sensitive and specific genotyping of human papillomavirus in metagenomic DNA, Bioinformatics, , bty037, https://doi.org/10.1093/bioinformatics/bty037
 
 
 ##  Installation
